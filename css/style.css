@@ -284,12 +284,13 @@ a.menu__item:hover {
 }
 
 .header__slogan {
+    line-height: 0.8;
     width: 1170px;
     margin: auto;
     color: white;
     font-size: 6.25rem;
     font-weight: 900;
-    
+    margin-bottom: 2rem;
 }
 
 .green__letters {
